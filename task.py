@@ -157,3 +157,4 @@ def average_all_rates(lecturer_list, course):
 
 print(average_all_grades([student_one, student_two], 'Python'))
 print(average_all_rates([lecturer_two, lecturer_one], 'Python'))
+
